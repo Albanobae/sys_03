@@ -1,0 +1,70 @@
+body {
+    background-color:cyan;
+}
+.cabecalho{
+    width: 100%px;
+    height: 150px;;
+    margin: 10px;
+    background-color: darkcyan;
+    border-radius: 10px;
+    text-align: center;
+}
+nav{
+    width: 100%px;
+    height: 50px;
+    margin: 10px;
+    margin-top: 50px;
+    background-color: darkgoldenrod;
+    border-radius: 10px;
+}
+section {
+    width: 65%;
+    height: 300px;
+    margin: 10px;
+    background-color: darkgrey;
+    text-align: center;
+    border-radius: 10px;
+    float: left;
+}
+article {
+    width: 100%px;
+    height: 250px;
+    margin: 10px;
+    background-color: darkolivegreen;
+    border-radius: 10px;
+}
+#header {
+    width: 100%px;
+    height: 50px;
+    margin: 10px;
+    background-color: darkslategrey;
+    border-radius: 10px;
+}
+footer{
+    background-color: dodgerblue;
+    width: 100%px;
+    height: 50px;
+    margin: 10px;
+    margin-top: 100px;
+    border-radius: 10px;
+
+}
+aside {
+    background-color: firebrick;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    float: right;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.rodape {
+    clear: both;
+    
+    height: 150px;
+    background-color:yellowgreen;
+    text-align: center;
+    
+    
+}

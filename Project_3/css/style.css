@@ -1,0 +1,52 @@
+#menu {
+  background-color: black;
+  margin: 5px 5px;
+  color: aliceblue;
+  text-align: center;
+}
+
+#coluna{
+  background-color: red;
+  width: 200px;
+  height: 500px;
+  float: left;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+}
+#coluna2 {
+  background-color: cyan;
+  width: 200px;
+  height: 500px;
+  float: left;
+  margin-top: 5px;
+  margin-left: 5px;
+  padding: 5px;
+}
+#coluna3 {
+  background-color: green;
+  width: 200px;
+  height: 500px;
+  float: right;
+  margin-top: 5px;
+  padding: 5px;
+  text-align: center;
+}
+
+  #inter {
+    background-color: violet;
+    width: 150px;
+    height: 50px;
+    margin: auto;
+    margin-top: 30px;
+    border: solid 2px black;
+    text-align: center;
+  }
+  
+
+#rodape {
+  background-color: yellow;
+  clear: both;
+  text-align: center;
+}
+
